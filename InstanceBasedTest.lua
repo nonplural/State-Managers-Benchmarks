@@ -1,4 +1,4 @@
-local statehandler_attr = require(game.ReplicatedStorage.old) -- Adjust path as needed
+local statehandler_attr = require(game.ReplicatedStorage.old)
 
 local dummySubject = Instance.new("Folder")
 local iterationSets = {1000, 10000, 100000, 1000000}
